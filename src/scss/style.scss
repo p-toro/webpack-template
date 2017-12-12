@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  body {
+    height: 100%;
+    background: url(../img/selknam.png) no-repeat center top #5f9ea0;
+    background-size: contain;
+    p {
+      display: inline-block;
+      background-color: #fff;
+      border: solid 1px #000;
+      margin: 1rem;
+      padding: 1rem;
+    }
+  }
+}

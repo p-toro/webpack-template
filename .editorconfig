@@ -1,0 +1,25 @@
+# Do not search higher setting than this file. Be sure to mention it at the beginning："true", "false"
+root = true
+
+[*]
+# Types of indentation："tab", "space"
+indent_style = space
+
+# The width of each hierarchy of the indent：integer
+indent_size = 2
+
+# Line feed code："lf", "cr", "crlf"
+end_of_line = crlf
+
+# Character code："latin1", "utf-8", "utf-8-bom", "utf-16be" "utf-16le"　※「Shift JIS」can't be used
+charset = utf-8
+
+# Remove trailing whitespace："true", "false"
+#trim_trailing_whitespace = true
+
+# Add blank line at the end："true", "false"
+#insert_final_newline = true
+
+# When the extension is .md file
+[*.md]
+trim_trailing_whitespace = false
