@@ -15,7 +15,3 @@ This is the webpack Template which compiles Babel, SCSS, Backgound Image togethe
 
 ## Watch
 ```$ webpack -w```
-
-## License
-
-Code and documentation copyright 2017 by [p-toro](https://github.com/p-toro). Code released under the [MIT License](https://github.com/p-toro/webpack-template/blob/master/LICENSE).
